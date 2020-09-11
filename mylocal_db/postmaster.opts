@@ -1,0 +1,1 @@
+/home/ahmed/anaconda3/envs/Django/bin/postgres "-D" "mylocal_db"
