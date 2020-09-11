@@ -1,0 +1,18 @@
+2020-09-11 05:03:00.193 EET [21258] LOG:  starting PostgreSQL 12.2 on x86_64-pc-linux-gnu, compiled by x86_64-conda_cos6-linux-gnu-cc (crosstool-NG 1.23.0.449-a04d0) 7.3.0, 64-bit
+2020-09-11 05:03:00.194 EET [21258] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2020-09-11 05:03:00.194 EET [21258] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2020-09-11 05:03:00.194 EET [21258] WARNING:  could not create listen socket for "localhost"
+2020-09-11 05:03:00.194 EET [21258] FATAL:  could not create any TCP/IP sockets
+2020-09-11 05:03:00.194 EET [21258] LOG:  database system is shut down
+2020-09-11 05:13:25.640 EET [5309] LOG:  starting PostgreSQL 12.2 on x86_64-pc-linux-gnu, compiled by x86_64-conda_cos6-linux-gnu-cc (crosstool-NG 1.23.0.449-a04d0) 7.3.0, 64-bit
+2020-09-11 05:13:25.640 EET [5309] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2020-09-11 05:13:25.651 EET [5309] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2020-09-11 05:13:25.692 EET [5311] LOG:  database system was shut down at 2020-09-11 05:02:29 EET
+2020-09-11 05:13:25.707 EET [5309] LOG:  database system is ready to accept connections
+2020-09-11 05:17:22.460 EET [5675] LOG:  invalid length of startup packet
+2020-09-11 05:17:22.567 EET [5697] LOG:  invalid length of startup packet
+2020-09-11 05:17:23.493 EET [5711] LOG:  invalid length of startup packet
+2020-09-11 05:17:24.135 EET [5732] LOG:  invalid length of startup packet
+2020-09-11 05:17:24.614 EET [5739] LOG:  invalid length of startup packet
+2020-09-11 05:17:29.669 EET [5770] LOG:  invalid length of startup packet
+2020-09-11 05:30:55.523 EET [7499] FATAL:  database "ahmed_db" does not exist
