@@ -16,3 +16,108 @@
 2020-09-11 05:17:24.614 EET [5739] LOG:  invalid length of startup packet
 2020-09-11 05:17:29.669 EET [5770] LOG:  invalid length of startup packet
 2020-09-11 05:30:55.523 EET [7499] FATAL:  database "ahmed_db" does not exist
+2020-09-11 07:16:28.864 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:29.512 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:29.512 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:30.159 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:30.159 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:30.806 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:30.806 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:31.453 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:31.453 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:32.100 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:32.100 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:32.748 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:32.748 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:33.396 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:33.396 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:34.042 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:34.042 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:34.689 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:34.689 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:35.337 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:35.337 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:35.985 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:35.985 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:36.632 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:36.632 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:37.280 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:37.280 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:37.928 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:37.928 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:38.575 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:38.575 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:38.979 EET [5315] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2020-09-11 07:16:38.980 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:38.980 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:39.627 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:39.627 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:40.274 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:40.274 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:40.921 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:40.922 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:41.569 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:41.569 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:42.216 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:42.217 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:42.864 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:42.865 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:43.511 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:43.512 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:44.159 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:44.159 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:44.806 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:44.806 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:45.454 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:45.454 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:46.100 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:46.100 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:46.747 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:46.747 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:47.393 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:47.393 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:48.040 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:48.040 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:48.687 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:48.687 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:49.092 EET [5315] LOG:  using stale statistics instead of current ones because stats collector is not responding
+2020-09-11 07:16:49.092 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:49.092 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:49.739 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:49.739 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:50.386 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:50.386 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:51.033 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:51.033 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:51.680 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:51.680 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:52.328 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:52.328 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:52.975 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:52.975 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:53.621 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:53.621 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:54.269 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:54.269 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:54.916 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:54.916 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:55.563 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:55.564 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:56.210 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:56.210 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:56.858 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:56.858 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:57.504 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:57.504 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:58.151 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:58.151 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:58.797 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:58.797 EET [5316] LOG:  could not open temporary statistics file "pg_stat_tmp/global.tmp": No such file or directory
+2020-09-11 07:16:59.013 EET [5309] LOG:  could not open file "postmaster.pid": No such file or directory
+2020-09-11 07:16:59.013 EET [5309] LOG:  performing immediate shutdown because data directory lock file is invalid
+2020-09-11 07:16:59.013 EET [5309] LOG:  received immediate shutdown request
+2020-09-11 07:16:59.013 EET [5309] LOG:  could not open file "postmaster.pid": No such file or directory
+2020-09-11 07:16:59.013 EET [5315] WARNING:  terminating connection because of crash of another server process
+2020-09-11 07:16:59.013 EET [5315] DETAIL:  The postmaster has commanded this server process to roll back the current transaction and exit, because another server process exited abnormally and possibly corrupted shared memory.
+2020-09-11 07:16:59.013 EET [5315] HINT:  In a moment you should be able to reconnect to the database and repeat your command.
+2020-09-11 07:16:59.020 EET [5309] LOG:  database system is shut down
