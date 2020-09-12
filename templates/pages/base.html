@@ -11,8 +11,13 @@
     <title>Hello, world!</title>
   </head>
   <body>
+    {% include 'components/navbar.html' %}
+
+
     {% block content %}
     {% endblock content %}
+
+    {% include 'components/footer.html' %}
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

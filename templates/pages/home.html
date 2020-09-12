@@ -1,4 +1,54 @@
-{% extends 'pages/base.html' %}
+{% extends '../pages/base.html' %}
 {% block content %}
 <h1>Hello mad World</h1>
+<div id="tweets">
+    replace me
+</div>
+
+<script>
+
+    const tweetsElement = document.getElementById("tweets")
+    // tweetsElement.innerHTML = "xhr.onload"
+
+    const xhr = new XMLHttpRequest()
+    const method = 'GET'
+    const url = "/tweets"
+    const responseType = "json"
+    function handleDidLike(tweet_id, currentCount) {
+        console.log(tweet_id, currentCount)
+        return 
+    }
+    function LikeButton(tweet) {
+        return "<button class='btn btn-outline-primary btn-sm' onclick=handleDidLike("+tweet.id+","+tweet.likes+")>"+tweet.likes+"like</button>"
+    }
+
+
+
+
+    function formatTweetElement(Tweet) {
+        var formattedTweet = "<div class='mb-4'><h1>" + Tweet.id
+            + "</h1><p>" + Tweet.content
+            + "</p>" + LikeButton(Tweet) + "</div>"
+
+        return formattedTweet
+    }
+
+    xhr.responseType = responseType
+    xhr.open(method, url)
+    xhr.onload = function () {
+        const serverResponse = xhr.response
+        var listedItems = serverResponse.response
+        var finalTweetStr = ""
+        var i;
+        for (i = 0; i < listedItems.length; i++) {
+            var tweetObj = listedItems[i]
+            var currentTweet = formatTweetElement(tweetObj)
+            finalTweetStr += currentTweet
+
+        }
+        tweetsElement.innerHTML = finalTweetStr
+
+    }
+    xhr.send()
+</script>
 {% endblock content %}
